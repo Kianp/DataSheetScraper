@@ -1,0 +1,13 @@
+{
+  "name": "DigitalCircuitScraper",
+  "main": "scraper.js",
+  "dependencies": {
+    "ajax-request": "^1.0.6",
+    "body-parser": "~1.0.0",
+    "cheerio": "latest",
+    "krawler": "latest",
+    "mt-downloader": "latest",
+    "prompt": "^0.2.14",
+    "request": "latest"
+  }
+}
