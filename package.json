@@ -1,6 +1,6 @@
 {
   "name": "DigitalCircuitScraper",
-  "main": "scraper.js",
+  "main": "app.js",
   "dependencies": {
     "ajax-request": "^1.0.6",
     "body-parser": "~1.0.0",
